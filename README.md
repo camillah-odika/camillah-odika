@@ -41,6 +41,6 @@ I aim to work with organizations and teams that build AI-powered, scalable data 
 ---
 
 📫 **Let’s Connect!**  
-[LinkedIn →](https://www.linkedin.com/in/camillah-odika)  
+[LinkedIn →](https://www.linkedin.com/in/camillah-odika-4b1a552b3/)  
 [GitHub →](https://github.com/camillah-odika)
 
