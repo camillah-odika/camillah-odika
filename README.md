@@ -29,9 +29,9 @@ As part of my certification, I worked on a group project that focused on visuali
 ---
 
 ## 🔗 Featured Repositories
-- [🔗 Real-Time Crypto Data Fabric Project]()
-- [🔗 Azure ML Pipeline Simulation]()
-- [🔗 Power BI Dashboards & Fabric Workflows]()
+- [🔗 Real-Time Crypto Data Fabric Project]
+- [🔗 Azure ML Pipeline Simulation]
+- [🔗 Power BI Dashboards & Fabric Workflows]
 
 ---
 
